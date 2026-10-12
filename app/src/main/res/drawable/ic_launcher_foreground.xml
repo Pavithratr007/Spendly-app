@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="27"
+        android:translateY="27">
+        <!-- Scale 54x54 content centered within 108 canvas -->
+        <!-- Card / Wallet Body -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M6,10 C3.79,10 2,11.79 2,14 L2,40 C2,42.21 3.79,44 6,44 L48,44 C50.21,44 52,42.21 52,40 L52,14 C52,11.79 50.21,10 48,10 L6,10 Z M6,16 L48,16 L48,22 L6,22 L6,16 Z" />
+        <!-- Card Chip / Detail -->
+        <path
+            android:fillColor="#E0E7FF"
+            android:pathData="M8,26 L18,26 C19.1,26 20,26.9 20,28 L20,34 C20,35.1 19.1,36 18,36 L8,36 C6.9,36 6,35.1 6,34 L6,28 C6,26.9 6.9,26 8,26 Z" />
+        <!-- Upward Growth Arrow in vibrant Emerald -->
+        <path
+            android:fillColor="#10B981"
+            android:pathData="M34,40 L44,30 L40,30 L40,24 L34,24 L34,28 L28,34 L31,37 L34,34 L34,40 Z" />
+        <path
+            android:fillColor="#6EE7B7"
+            android:pathData="M44,22 L44,30 L36,22 Z" />
+    </group>
+</vector>
